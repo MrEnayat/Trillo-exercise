@@ -1,0 +1,17 @@
+.container {
+  max-width: 120rem;
+  margin: 8rem auto;
+  background-color: var(--color-oranged-1);
+  box-shadow: var(--shadow-dark);
+
+  min-height: 50rem;
+}
+
+.logo {
+  width: 5rem;
+  height: 5rem;
+  margin-top: .1rem;
+  margin-left: 1rem;
+  border-radius: 30%;
+}
+
